@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		11A16D862BF5DB500045958C /* gogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A16D852BF5DB500045958C /* gogoView.swift */; };
 		A1B86F422BF5BA6200ADA86D /* mcintoshGitPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B86F412BF5BA6200ADA86D /* mcintoshGitPracticeApp.swift */; };
 		A1B86F442BF5BA6200ADA86D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B86F432BF5BA6200ADA86D /* ContentView.swift */; };
 		A1B86F462BF5BA6300ADA86D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B86F452BF5BA6300ADA86D /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		11A16D852BF5DB500045958C /* gogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gogoView.swift; sourceTree = "<group>"; };
 		A1B86F3E2BF5BA6200ADA86D /* mcintoshGitPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mcintoshGitPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1B86F412BF5BA6200ADA86D /* mcintoshGitPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mcintoshGitPracticeApp.swift; sourceTree = "<group>"; };
 		A1B86F432BF5BA6200ADA86D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 		A1B86F472BF5BA6300ADA86D /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				11A16D852BF5DB500045958C /* gogoView.swift */,
 				A1B86F482BF5BA6300ADA86D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1B86F442BF5BA6200ADA86D /* ContentView.swift in Sources */,
+				11A16D862BF5DB500045958C /* gogoView.swift in Sources */,
 				A1B86F422BF5BA6200ADA86D /* mcintoshGitPracticeApp.swift in Sources */,
 				A1B86F502BF5DB4900ADA86D /* vinci.swift in Sources */,
 			);
